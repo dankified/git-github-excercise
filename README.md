@@ -1,5 +1,3 @@
-#Github exercise
-
 1. Create a new repository, call it ```pull-request-practice```
 2. Send a collaborate invitation to the person sitting beside you. (be sure to get their github username or email)
 3. This person will have to accept the invitation that was sent to their email.
